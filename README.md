@@ -14,10 +14,6 @@
 
 ## Steam好友列表
 
-| Avatar                                                                            | Name                             | steamid                                                                     | is_friend   | BFD                 | Remark   |
-|:----------------------------------------------------------------------------------|:---------------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS                        | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT                             | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          |
 | ![](https://avatars.steamstatic.com/d545077424fe558af3281b5a477ef3d27319d720.jpg) | 第一天做厨师                           | [76561199522164032](https://steamcommunity.com/profiles/76561199522164032/) | ✅           | 2024-09-16 10:40:10 |          |
 | ![](https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e.jpg) | 低迷的小J                            | [76561198923328371](https://steamcommunity.com/profiles/76561198923328371/) | ✅           | 2024-06-10 17:08:58 |          |
 | ![](https://avatars.steamstatic.com/c239580f51a41dbec04ad6f91e00332698c7e49d.jpg) | 俞                                | [76561199736137393](https://steamcommunity.com/profiles/76561199736137393/) | ✅           | 2024-09-22 15:39:12 |          |
