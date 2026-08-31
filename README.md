@@ -693,3 +693,4 @@
 | ![](https://avatars.steamstatic.com/c94633f1303787c7164b7833b0d964e87dc1217d.jpg) | 󰀦IIIIIISLAND                   | [76561199023768534](https://steamcommunity.com/profiles/76561199023768534/) | ✅           | 2026-08-17 08:58:44 |          |
 | ![](https://avatars.steamstatic.com/84be6e68b74d4259cc5333fced5031127d8d045d.jpg) | COCO                           | [76561199643397056](https://steamcommunity.com/profiles/76561199643397056/) | ✅           | 2026-08-18 07:04:59 |          |
 | ![](https://avatars.steamstatic.com/6c0667f4a9da8d8bd8c343a58ce80863d14a7b30.jpg) | 依韵                             | [76561198326923540](https://steamcommunity.com/profiles/76561198326923540/) | ✅           | 2026-08-22 14:44:36 |          |
+| ![](https://avatars.steamstatic.com/09c72809de070806e38c2c820334e4c9fc0d756c.jpg) | 颖颖颖颖颖（移动南京）                    | [76561199502254961](https://steamcommunity.com/profiles/76561199502254961/) | ✅           | 2026-08-30 09:58:13 |          |
