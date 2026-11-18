@@ -695,3 +695,4 @@
 | ![](https://avatars.steamstatic.com/6c0667f4a9da8d8bd8c343a58ce80863d14a7b30.jpg) | 依韵                             | [76561198326923540](https://steamcommunity.com/profiles/76561198326923540/) | ✅           | 2026-08-22 14:44:36 |          |
 | ![](https://avatars.steamstatic.com/09c72809de070806e38c2c820334e4c9fc0d756c.jpg) | 颖颖颖颖颖（移动南京）                    | [76561199502254961](https://steamcommunity.com/profiles/76561199502254961/) | ✅           | 2026-08-30 09:58:13 |          |
 | ![](https://avatars.steamstatic.com/2bda1813ef7b81d1a699a15f9f33a931dd6b2404.jpg) | Vee                            | [76561199032070843](https://steamcommunity.com/profiles/76561199032070843/) | ✅           | 2026-09-30 23:18:38 |          |
+| ![](https://avatars.steamstatic.com/f6f966fe7b1ba2b1bcf2534ae67b0184e3109f13.jpg) | 小宁                             | [76561198389667313](https://steamcommunity.com/profiles/76561198389667313/) | ✅           | 2026-11-17 07:14:59 |          |
